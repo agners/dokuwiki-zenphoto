@@ -1,0 +1,7 @@
+base   zenlogin
+author Stefan Agner
+email  falstaff@deheime.ch
+date   2010-08-16
+name   ZenPhoto Autologin
+desc   This plugin automatically creates user and log them in at Zenphoto. When a user changed, the changes are applied to Zenphotos user database as well. It provides a single signed on mechanism as well.
+url    http://blog.falstaff.ch/

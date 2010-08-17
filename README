@@ -1,0 +1,14 @@
+This Dokuwiki plugin automatically creates user and log them in at Zenphoto. When a user changed, the changes are applied to Zenphotos user database as well. It provides a single signed on mechanism as well.
+
+Requirements:
+  * Zenphoto installation
+  * Dokuwiki installation
+
+Usage:
+  * Unzip to your Dokuwiki lib/plugins directory
+  * Login to your Dokuwiki and visit your admin page
+  * Edit zenlogin options according to your Zenphoto configuration
+  * Register user and watch them appear in your Zenphoto installation
+
+Visit http://blog.falstaff.ch/2010/08/17/zenphoto-dokuwiki-integration/ for 
+more information
